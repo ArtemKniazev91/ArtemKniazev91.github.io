@@ -508,7 +508,7 @@
 
 @media(max-width: 768px) { 
     .container {
-        width: 750px
+        max-width: 750px
     }
     .promo {
         min-height: 520px;
